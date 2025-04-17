@@ -1,4 +1,3 @@
-
 repetir="s"
 while repetir=="s":
     numero = int(input("digite um numero: "))
